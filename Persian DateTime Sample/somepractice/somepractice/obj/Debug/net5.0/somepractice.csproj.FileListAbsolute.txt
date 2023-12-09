@@ -1,0 +1,32 @@
+F:\somepractice\somepractice\somepractice\bin\Debug\net5.0\somepractice.exe
+F:\somepractice\somepractice\somepractice\bin\Debug\net5.0\somepractice.deps.json
+F:\somepractice\somepractice\somepractice\bin\Debug\net5.0\somepractice.runtimeconfig.json
+F:\somepractice\somepractice\somepractice\bin\Debug\net5.0\somepractice.runtimeconfig.dev.json
+F:\somepractice\somepractice\somepractice\bin\Debug\net5.0\somepractice.dll
+F:\somepractice\somepractice\somepractice\bin\Debug\net5.0\ref\somepractice.dll
+F:\somepractice\somepractice\somepractice\bin\Debug\net5.0\somepractice.pdb
+F:\somepractice\somepractice\somepractice\obj\Debug\net5.0\somepractice.csproj.AssemblyReference.cache
+F:\somepractice\somepractice\somepractice\obj\Debug\net5.0\somepractice.GeneratedMSBuildEditorConfig.editorconfig
+F:\somepractice\somepractice\somepractice\obj\Debug\net5.0\somepractice.AssemblyInfoInputs.cache
+F:\somepractice\somepractice\somepractice\obj\Debug\net5.0\somepractice.AssemblyInfo.cs
+F:\somepractice\somepractice\somepractice\obj\Debug\net5.0\somepractice.csproj.CoreCompileInputs.cache
+F:\somepractice\somepractice\somepractice\obj\Debug\net5.0\somepractice.dll
+F:\somepractice\somepractice\somepractice\obj\Debug\net5.0\ref\somepractice.dll
+F:\somepractice\somepractice\somepractice\obj\Debug\net5.0\somepractice.pdb
+F:\somepractice\somepractice\somepractice\obj\Debug\net5.0\somepractice.genruntimeconfig.cache
+C:\Users\Castel\Desktop\for git persian\somepractice\somepractice\somepractice\obj\Debug\net5.0\somepractice.csproj.AssemblyReference.cache
+C:\Users\Castel\Desktop\for git persian\somepractice\somepractice\somepractice\obj\Debug\net5.0\somepractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Castel\Desktop\for git persian\somepractice\somepractice\somepractice\obj\Debug\net5.0\somepractice.AssemblyInfoInputs.cache
+C:\Users\Castel\Desktop\for git persian\somepractice\somepractice\somepractice\obj\Debug\net5.0\somepractice.AssemblyInfo.cs
+C:\Users\Castel\Desktop\for git persian\somepractice\somepractice\somepractice\obj\Debug\net5.0\somepractice.csproj.CoreCompileInputs.cache
+C:\Users\Castel\Desktop\for git persian\somepractice\somepractice\somepractice\obj\Debug\net5.0\somepractice.dll
+C:\Users\Castel\Desktop\for git persian\somepractice\somepractice\somepractice\obj\Debug\net5.0\ref\somepractice.dll
+C:\Users\Castel\Desktop\for git persian\somepractice\somepractice\somepractice\obj\Debug\net5.0\somepractice.pdb
+C:\Users\Castel\Desktop\for git persian\somepractice\somepractice\somepractice\bin\Debug\net5.0\somepractice.exe
+C:\Users\Castel\Desktop\for git persian\somepractice\somepractice\somepractice\bin\Debug\net5.0\somepractice.deps.json
+C:\Users\Castel\Desktop\for git persian\somepractice\somepractice\somepractice\bin\Debug\net5.0\somepractice.runtimeconfig.json
+C:\Users\Castel\Desktop\for git persian\somepractice\somepractice\somepractice\bin\Debug\net5.0\somepractice.runtimeconfig.dev.json
+C:\Users\Castel\Desktop\for git persian\somepractice\somepractice\somepractice\bin\Debug\net5.0\somepractice.dll
+C:\Users\Castel\Desktop\for git persian\somepractice\somepractice\somepractice\bin\Debug\net5.0\ref\somepractice.dll
+C:\Users\Castel\Desktop\for git persian\somepractice\somepractice\somepractice\bin\Debug\net5.0\somepractice.pdb
+C:\Users\Castel\Desktop\for git persian\somepractice\somepractice\somepractice\obj\Debug\net5.0\somepractice.genruntimeconfig.cache
